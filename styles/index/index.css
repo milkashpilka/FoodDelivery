@@ -98,7 +98,7 @@
 .advertising .wrapper::after {
     position: absolute;
     content: "";
-    background-image: url(/img/globals/banner.png);
+    background-image: url("../../img/globals/banner.png");
     background-size: cover;
     width: 46.20vw;
     height: 29.68vw;
