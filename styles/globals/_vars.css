@@ -1,0 +1,13 @@
+:root {
+    --gradient-200: linear-gradient(180deg, #091E26 0%, #00131C 100%);
+    --background-color:#000A0F;
+    --background-dark-color: #00070A;
+    --background-light-color: #00111A;
+    --tomato: #750310;
+    --white:#FFFFFF;
+    --background-input-color: #0D1D25;
+    --font-light-color: #7C7C8A;
+    --font-blue-color: #82F3FF;
+    --font-roboto: "Roboto", sans-serif;
+    --font-poppins: "Poppins", sans-serif;
+}

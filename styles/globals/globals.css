@@ -1,0 +1,19 @@
+@import url(_fonts.css);
+@import url(_vars.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-poppins);
+    background-color: var(--background-color);
+}
+
+.wrapper {
+    max-width: 82.02vw;
+    width: 100%;
+    margin: 0 auto;
+}
